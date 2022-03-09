@@ -1,15 +1,3 @@
-//Global Variables
-//
-void setup() {}//End setup
-//
-void draw() {}//End draw
-//
-void keyPressed() {}//End keyPressed
-//
-void mousePressed() {}//End mousePressed
-//
-// What we will copy and paste from the Static Program
-/*
 println("Hello World");
 String firstSentence = "You said Hello!";
 String secondSentence ="Mr. Mercer counts to 10, by 1.";
@@ -42,5 +30,4 @@ println("One plus two is", one+two); //Casting is int(one), to change STRING to 
 /*Note: the computer is adding ASCII Values
  Period has an ASCII Value of 46
  So, int(one)+two+z = 1 + 1 + 46
- */
  */
